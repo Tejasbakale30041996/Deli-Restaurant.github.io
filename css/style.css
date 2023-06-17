@@ -81,7 +81,7 @@ body {
 }
 
 .header {
-    background: url(../../img/homepage-hero-bg-img.jpg) no-repeat;
+    background: url(../img/homepage-hero-bg-img.jpg) no-repeat;
     background-size: cover;
     padding-top: 20px;
     position: relative;
@@ -440,7 +440,7 @@ body {
 }
 
 .signature {
-    background: url(../../img/signeture-bg.jpg) no-repeat;
+    background: url(../img/signeture-bg.jpg) no-repeat;
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -554,7 +554,7 @@ body {
 }
 
 .test-background {
-    background: url(../../img/testimonail-section-bg-1.jpg) no-repeat;
+    background: url(../img/testimonail-section-bg-1.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
