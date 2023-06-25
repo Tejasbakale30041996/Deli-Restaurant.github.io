@@ -971,7 +971,7 @@ body {
 
 .abt-header {
 
-    background: url(../../img/about-section-bg-img.jpg) no-repeat;
+    background: url(../img/about-section-bg-img.jpg) no-repeat;
     background-size: cover;
     padding-top: 20px;
     position: relative;
@@ -1321,7 +1321,7 @@ body {
 
 .menu-header {
 
-    background: url(../../img/signeture-bg.jpg) no-repeat;
+    background: url(../img/signeture-bg.jpg) no-repeat;
     background-size: cover;
     padding-top: 20px;
     position: relative;
@@ -1553,7 +1553,7 @@ body {
 
 .menu-reservation-main {
 
-    background: url(../../img/inside-restaurant-topview.jpg) no-repeat;
+    background: url(../img/inside-restaurant-topview.jpg) no-repeat;
     background-size: cover;
     margin-top: 130px;
     padding-top: 100px;
@@ -1714,7 +1714,7 @@ body {
 
 .testimonial-header {
 
-    background: url(../../img/testimonail-hero-bg.jpg) no-repeat;
+    background: url(../img/testimonail-hero-bg.jpg) no-repeat;
     background-size: cover;
     padding-top: 20px;
     position: relative;
@@ -1975,7 +1975,7 @@ body {
 
 .contact-header {
 
-    background: url(../../img/contact-us-bg-img.jpg) no-repeat;
+    background: url(../img/contact-us-bg-img.jpg) no-repeat;
     background-size: cover;
     padding-top: 20px;
     position: relative;
